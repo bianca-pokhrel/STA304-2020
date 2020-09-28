@@ -1,7 +1,6 @@
 ---
 title: "Tracking Assaults in the Bay Street Corridor"
 author: "Bianca Pokhrel"
-date: 2020-09-27
 ---
 
 
