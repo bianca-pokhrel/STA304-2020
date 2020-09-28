@@ -1,9 +1,9 @@
 ---
 title: "Tracking Assaults in the Bay Street Corridor"
 author: "Bianca Pokhrel"
-date: "27/09/2020"
-output: html_document
+date: 2020-09-27
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -16,6 +16,7 @@ crime_statistics <- crime_resources %>%
   get_resource()
 
 ```
+
 
 ## Abstract
 
